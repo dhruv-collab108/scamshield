@@ -44,7 +44,6 @@ ScamShield-AI/
 └── README.md
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/shivarajput202006/project.git
 2. Navigate to the Project
 cd project
 3. Frontend Setup
